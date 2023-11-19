@@ -487,7 +487,7 @@ section {
 }
 
 .hamburger:hover i {
-    color: #ffa37b;
+    color: #FF69B4;
 }
 
 
@@ -589,11 +589,11 @@ section {
 }
 
 .menu_book a:hover {
-    color: #ffa37b;
+    color: #FF69B4;
 }
 
 .menu_book a:hover::after {
-    background: #ffa37b;
+    background: #FF69B4;
 }
 
 .menu_phone {
@@ -737,7 +737,7 @@ input[type=number]::-webkit-outer-spin-button {
 .booking_button {
     width: 152px;
     height: 54px;
-    background: #ffa37b;
+    background: #FF69B4;
     font-size: 14px;
     font-weight: 500;
     color: #ffffff;
@@ -768,7 +768,7 @@ input[type=number]::-webkit-outer-spin-button {
     left: 37px;
     width: 116px;
     height: 26px;
-    background: #ffa37b;
+    background: #FF69B4;
     text-align: center;
 }
 
@@ -796,7 +796,7 @@ input[type=number]::-webkit-outer-spin-button {
 }
 
 .blog_post_title a:hover {
-    color: #ffa37b;
+    color: #FF69B4;
 }
 
 .blog_post_info {
@@ -849,7 +849,7 @@ input[type=number]::-webkit-outer-spin-button {
 
 .page_nav ul li a:hover,
 .page_nav ul li.active a {
-    color: #ffa37b;
+    color: #FF69B4;
 }
 
 
@@ -914,7 +914,7 @@ input[type=number]::-webkit-outer-spin-button {
     right: 0;
     width: 100px;
     height: 54px;
-    background: #ffa37b;
+    background: #FF69B4;
     color: #ffffff;
     border: none;
     outline: none;
@@ -943,7 +943,7 @@ input[type=number]::-webkit-outer-spin-button {
 }
 
 .sidebar_list ul li a:hover {
-    color: #ffa37b;
+    color: #FF69B4;
 }
 
 .categories {
@@ -975,7 +975,7 @@ input[type=number]::-webkit-outer-spin-button {
 }
 
 .tags_container ul li a:hover {
-    color: #ffa37b;
+    color: #FF69B4;
 }
 
 .special_offer {
@@ -1141,7 +1141,7 @@ input[type=number]::-webkit-outer-spin-button {
 .newsletter_button {
     width: 152px;
     height: 54px;
-    background: #ffa37b;
+    background: #FF69B4;
     margin-top: 23px;
     border: none;
     outline: none;
